@@ -18,6 +18,7 @@ CREATE TABLE candidates(
     phone VARCHAR(50),
     city  VARCHAR(100),
     country VARCHAR(100),
+    resume_path TEXT,
     linkedin_url TEXT,
     github_url TEXT,
     portfolio_url TEXT,
